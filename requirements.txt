@@ -1,0 +1,8 @@
+numpy
+pandas>=1.5
+pyarrow
+matplotlib>=3.5
+scipy
+statsmodels
+# only needed to re-pull raw data from Xatu (not for the offline rerun):
+clickhouse-connect
