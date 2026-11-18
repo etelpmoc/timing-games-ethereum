@@ -12,7 +12,6 @@ jupyter notebook timing_games.ipynb   # run all cells
 With no credentials set, the notebook runs in offline mode and reads all
 inputs from `data/`. It writes figures to `fig/`, LaTeX tables to the working
 directory, and every number quoted in the paper to `numbers.json`.
-`timing_games.py` is the same notebook in plain-script form.
 
 ## Data
 
